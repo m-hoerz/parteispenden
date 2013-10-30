@@ -1,0 +1,734 @@
+"Partei";"Name, Vorname / Firma";"Adresse";"PLZ";"Ort";"Betrag (EUR)"
+"Grüne";"Ackermann, Renate";"Albert-Schweitzer-Straße 2";91522;"Ansbach";12400,8
+"Grüne";"Aerticket AG, ";"Boppstraße 10";10967;"Berlin";20000
+"Grüne";"Albrecht, Jan Philipp";"Grotefendstraße 1";30167;"Hannover";18495,92
+"Grüne";"Allianz SE, ";"Pariser Platz 6";10117;"Berlin";50001
+"Grüne";"Alt, Irene";"Emst-Ludwig-Straße 19";55257;"Budenheim";10332
+"Grüne";"Al-Wazir, Tarek";"Rohrstraße 82";63075;"Offenbach";14219,34
+"Grüne";"Amtsberg, Luise";"Jungfernstieg 30";24116;"Kiel";12127,42
+"Grüne";"Andreae, Kerstin";"Oberau 59";79102;"Freiburg";13779
+"Grüne";"Andresen, Rasmus";"Toosbüystr 1";24939;"Flensburg";12017,42
+"Grüne";"Asch, Andrea";"Strundenerstraße 150";51069;"Köln";18368,86
+"Grüne";"Augsten, Frank";"Waldstraße 1";99444;"Blankenhain";11376
+"Grüne";"Bause, Margarete";"Kaiserstraße 47";80801;"München";14907,4
+"Grüne";"Beck, Marieluise";"Wernigeroder Straße 10";28205;"Bremen";11389,8
+"Grüne";"Beck, Volker";"Platz der Republik 1";11011;"Berlin";10175
+"Grüne";"Becker, Horst";"Matthias-Claudius-Weg 9";53797;"Lohmar";19891,42
+"Grüne";"Behm, Cornelia";"An der Stammbahn 181";14532;"Kleinmachnow";21624
+"Grüne";"Bender, Birgitt";"Rosenbergstraße 63 A";70176;"Stuttgart";18284
+"Grüne";"BMW, ";"Petuelring 130";80788;"München";42654,85
+"Grüne";"Bocklet, Marcus";"Josef-Wirmer-Straße 12";60488;"Frankfurt";12628,38
+"Grüne";"Bohn, Marret Dr.";"Königsfurt 23 b";24796;"Klein Königsförde";12477,42
+"Grüne";"Bolte, Matthi";"Herforder Straße 56";33602;"Bielefeld";14833,31
+"Grüne";"Bonde, Alexander";"Ellbachstraße 66";72270;"Baiersbronn";13502,01
+"Grüne";"Brantner, Franziska";"Hirschauerstraße 5";72070;"Tübingen";15582
+"Grüne";"Braun, Bernhard Dr.";"Carolistraße 33";67067;"Ludwigshafen";11045,16
+"Grüne";"Brems, Wibke";"Sparrenburgweg 2";33332;"Gütersloh";12850,81
+"Grüne";"Brugger, Agnieszka";"Platz der Republik 1";11011;"Berlin";20271,88
+"Grüne";"Cramer, Michael";"Wallotstraße 16";14193;"Berlin";11376,2
+"Grüne";"Daimler AG, ";"Mercedesstraße 137";70546;"Stuttgart";45000
+"Grüne";"Deligöz, Ekin";"Schubertstraße 27";89250;"Senden";12848
+"Grüne";"Dörner, Katja";"Osloerstraße 17";53117;"Bonn";19427
+"Grüne";"Dorn-Rancke, Angela";"Kämpfrasen 8";35037;"Marburg";14136,38
+"Grüne";"Düker, Monika";"Grafenberger Allee 65";40237;"Düsseldorf";14184,52
+"Grüne";"Dürr, Josef";"Dorfstraße 8";82110;"Germering";10211
+"Grüne";"Engstfeld, Stefan";"Neckarstraße 3";40219;"Düsseldorf";13272,81
+"Grüne";"Enslin, Ellen";"Usinger Straße 77";61250;"Usingen";14157,74
+"Grüne";"Erdmann, Anke";"Am Moorwiesengraben 25";24113;"Kiel";11778,98
+"Grüne";"Erfurth, Sigrid";"Lange Straße 26";37249;"Neu-Eichenberg";17976,57
+"Grüne";"ERGO Versicherungsgruppe AG";"Victoriaplatz 2";40198;"Düsseldorf";15000
+"Grüne";"Erichson, Wolfgang";"Hundweg 10";77799;"Ortenberg";10919,96
+"Grüne";"Fell, Hans-Josef";"Am Rod 8";97762;"Hammelburg";14701,56
+"Grüne";"Filius, Jürgen";"Riedleinweg 29";89075;"Ulm";14054,26
+"Grüne";"Firma K Zwei Systems GmbH";"Riedwiesenstraße 13-17";71229;"Leonberg";14900
+"Grüne";"Franke, Anne";"Heimstraße 42";82131;"Gauting";10745
+"Grüne";"Fritzen, Maria-Elisabeth";"Am Wasserwerk 7";23617;"Stockelsdorf";14289,72
+"Grüne";"Frömmrich, Jürgen";"Burgstraße 3B";35066;"Frankenberg";12782,64
+"Grüne";"Fürter, Thorsten";"Dr.-Julius-Leber-Straße 15";23552;"Lübeck";12321,94
+"Grüne";"Gambke, Thomas";"Wilhelm-Hauff-Straße 57 b";84036;"Landshut";21260
+"Grüne";"Gaßner, Hartmut";"Drakestraße 31 d";12205;"Berlin";21200
+"Grüne";"Gehring, Kai";"Rosastraße 63";45130;"Essen";19024,08
+"Grüne";"Gehring, Thomas";"Talstrasse 29";87544;"Blaichach-Gunzesried";14412
+"Grüne";"Giegold, Sven";"Alte Reihe 16";27313;"Dörverden";17952
+"Grüne";"Giesbert, Tim";"Eschenbruch 14";45481;"Mülheim";10708
+"Grüne";"Göring-Eckardt, Katrin";"Emst-Häckel-Platz 6";99192;"Ingersleben";12842,22
+"Grüne";"Grünewald, Dieter";"Sperberweg 11";66123;"Saarbrücken";10395,88
+"Grüne";"Habeck, Robert Dr.";"Waldstraße 41";24939;"Flensburg";23380,22
+"Grüne";"Häfner, Gerald";"Fuststraße 5";80638;"München";12643
+"Grüne";"Hagenah, Enno";"Meterstraße 28";30169;"Hannover";11156,72
+"Grüne";"Hallitzky, Eike";"Am Tiergarten 24 a";94127;"Neuburg/Inn";16221
+"Grüne";"Hammann, Ursula";"Falltorstraße 9a";64584;"Biebesheim";13026,4
+"Grüne";"Hansen, Frank";"Neumäuerstraße 39/2";74523;"Schwäbisch Hall";11200
+"Grüne";"Hanses, Dagmar";"Neue Straße 10";59581;"Warstein";12290,81
+"Grüne";"Harms, Rebecca";"OT. Dickfeitzen 13";29496;"Waddeweitz";17992,83
+"Grüne";"Hartmann, Ludwig";"Alte Bergstraße 400";86899;"Landsberg";13140,25
+"Grüne";"Haßelmann, Britta";"Siechenmarschstraße 40";33615;"Bielefeld";17014
+"Grüne";"Häusling, Martin";"Heideweg 1";34596;"Bad Zwesten";11632
+"Grüne";"Heinen-Kljajic, Gabriele";"Nußbergstraße 29";38104;"Braunschweig";11285,88
+"Grüne";"Heinold, Monika";"Seeblick 16";24106;"Kiel";20281,6
+"Grüne";"Helmhold, Ursula";"Josua-Stegmann-Wall 8";31737;"Rinteln";13600
+"Grüne";"Herlitzius, Bettina";"Haus-Heydenstraße 201";52134;"Herzogenrath";14637,39
+"Grüne";"Hermann, Winfried";"Schlosserstraße 11";70178;"Stuttgart";12335,5
+"Grüne";"Hermenau, Antje";"Döbelner Straße 9";1129;"Dresden";12006,92
+"Grüne";"Hinz, Priska";"Walkmühlenweg 14";35745;"Herborn";11915,2
+"Grüne";"Hofreiter, Anton";"Prager Straße 3";82008;"Unterhaching";19147,99
+"Grüne";"Höhn, Bärbel";"Grillostraße 30";46045;"Oberhausen";19084,08
+"Grüne";"Hönlinger, Ingrid";"Landhausstraße 19";71634;"Ludwigsburg";19726,8
+"Grüne";"IBC Solar AG, ";"Am Hochgericht 10";96231;"Bad Staffelstein";20000
+"Grüne";"Jürgens, Andreas Dr.";"Karl-Kaltwasser-Straße 27";34121;"Kassel";14311,89
+"Grüne";"JUWI Holding AG";"Energie-Allee 1";55286;"Wörrstadt";16500
+"Grüne";"Kamm, Christine";"Luitpoldstraße 26";86157;"Augsburg";10253,36
+"Grüne";"Kaufmann, Frank Peter";"Begonienweg 7a";65201;"Wiesbaden";12000
+"Grüne";"Kekeritz, Uwe";"Custenlohr 40";97215;"Uffenheim";13616
+"Grüne";"Keller, Ska";"Wrangelstraße 87";10997;"Berlin";19589,44
+"Grüne";"Kessler, Klaus";"Heydingerstraße 8";66740;"Saarlouis";10438,2
+"Grüne";"Keul, Katja";"Linnert 2";31608;"Marklohe";10488,77
+"Grüne";"Keymis, Oliver";"Schulstraße 9";40668;"Meerbusch";22153,68
+"Grüne";"Kilic, Memet";"Dammweg 84";69123;"Heidelberg";16680
+"Grüne";"Kindler, Sven-Christian";"Minister-Stüve-Straße 10";30449;"Hannover";18287
+"Grüne";"Kirchner, Jens-Holger";"Lehderstraße 106";13086;"Berlin";11624,24
+"Grüne";"Klas, Heribert";"Marientalstraße 34";48149;"Münster";16034,36
+"Grüne";"Klein, Hans-Jürgen";"Uphusen 6";21775;"Steinau";11216,62
+"Grüne";"Klein-Schmeink, Maria";"Heisstraße 35";48145;"Münster";14840,68
+"Grüne";"Klose, Kai";"Stettiner Straße 8";65510;"Idstein";14063,01
+"Grüne";"Klotz, Sibyll Dr.";"Kreuzbergstraße 44";10965;"Berlin";10200
+"Grüne";"Köbler, Daniel";"Drususwall 54";55131;"Mainz";11601,51
+"Grüne";"Koczy, Ute";"Raabeweg 2 a";32657;"Lemgo";18534
+"Grüne";"Körner, Stephan";"Kiefernstraße 20";66129;"Saarbrücken";14996,64
+"Grüne";"Korter, Ina";"Schweewarder Straße 6";26954;"Nordenham";11485,16
+"Grüne";"Kotting-Uhl, Sylvia";"Akademiestraße 26";76133;"Karlsruhe";14477
+"Grüne";"Krebs, Silke";"Johanna-Kohlund-Straße 6";79111;"Freiburg";10909,36
+"Grüne";"Kretschmann, Winfried";"Litschenberg 4";72488;"Sigmaringen";20101,21
+"Grüne";"Krickel, Werner";"Im Städtchen 1";52156;"Monschau";13165,35
+"Grüne";"Krischer, Oliver";"Pastor-Lüpschen-Straße 82";52351;"Düren";11635,38
+"Grüne";"Krüger, Mario";"Seydlitzstraße 35";44263;"Dortmund";12000
+"Grüne";"Krumwiede, Agnes";"Knörstraße 8";85051;"Ingolstadt";20594,5
+"Grüne";"Kühn, Stephan";"Fichtenstraße 1";1097;"Dresden";20044
+"Grüne";"Künast, Renate";"Platz der Republik 1";11011;"Berlin";18517,24
+"Grüne";"Kurth, Markus";"Nettelbeckstraße 1";44147;"Dortmund";13420
+"Grüne";"Kurth, Undine";"Halberstädter Straße 59";6484;"Quedlinburg";16814,96
+"Grüne";"Lazar, Monika";"Wiedebachstraße 18";4277;"Leipzig";18653
+"Grüne";"Legel-Wood, Birgit";"Augustastraße 79";58452;"Witten";10720
+"Grüne";"Lehmann, Siegfried";"Jahnstraße 7";78315;"Radolfzell";12436,93
+"Grüne";"Lemke, Eveline";"Heinrich-Lersch-Weg 15";53489;"Sinzig";12993,01
+"Grüne";"Limburg, Helge";"Hinrich-Wilhelm-Kopf-Platz 1";30159;"Hannover";11597
+"Grüne";"Lindner, Tobias Dr.";"Mozartstraße 5";76744;"Wörth am Rhein";11006,8
+"Grüne";"Linnert, Karoline";"Goslarer Straße 6";28207;"Bremen";14484
+"Grüne";"Lipp, Marianne";"Alte Zollstraße 35";41372;"Niederkrüchten";20226,4
+"Grüne";"Loch bi hier, Barbara";"Wagnerstraße 7";87671;"Ronsberg";18121
+"Grüne";"Löhrmann, Sylvia";"Schlagbaumer Straße 67";42653;"Solingen";30514,74
+"Grüne";"Lorentschat, Manfred";"Sanderstraße 9";46045;"Oberhausen";10498,8
+"Grüne";"Lösch, Brigitte";"Kerner Straße 31";70182;"Stuttgart";14408,59
+"Grüne";"Maaßen, Martina";"Breyeller Straße 15";41751;"Viersen";19738,98
+"Grüne";"Magerl, Christian";"Landshuter Straße 94";85356;"Freising";10498,76
+"Grüne";"Maisch, Nicole";"Bardelebenstraße 20";34130;"Kassel";15535,76
+"Grüne";"Markert, Hans Christian";"Am Siepbach 23";41564;"Kaarst";12061,2
+"Grüne";"Matth iessen, Detlef";"Dorfstraße 33";24367;"Osterby";10716,22
+"Grüne";"May, Daniel";"Mauergasse 2";34497;"Korbach";14989,42
+"Grüne";"Meyer, Christian";"Grabenstraße 6";37603;"Holzminden";13760
+"Grüne";"Montag, Jerzy";"Diefenbachstraße 45";81479;"München";10650,08
+"Grüne";"Müller, Karin";"Wallstraße 2f";34125;"Kassel";12706,38
+"Grüne";"Müller, Kerstin";"Platz der Republik 1";11011;"Berlin";11826
+"Grüne";"Müller-Gemmeke, Beate";"Im Brühl 24";72124;"Pliezhausen";14477,52
+"Grüne";"Münchner Rückversicherung";"Königinstraße 107";80802;"München";15000
+"Grüne";"Mütze, Thomas";"Bachgartenstraße 22";63743;"Aschaffenburg";10515
+"Grüne";"Nestle, Ingrid";"Reventlouallee 28";24105;"Kiel";18669
+"Grüne";"Nouripour, Omid";"Oppenheimer Straße 17";60594;"Frankfurt";11336,8
+"Grüne";"Ostendorff, Friedrich";"Hanenstraße 5";59192;"Bergkamen";11484
+"Grüne";"Ott, Hermann E. Dr.";"Platz der Republik 1";11011;"Berlin";13157
+"Grüne";"Otto, Anke";"Am Wieselbau 30";14169;"Berlin";10869,24
+"Grüne";"Öztürk, Mürvet";"Turmstraße 5";35578;"Wetzlar";13496,38
+"Grüne";"Panhoff, Hans";"Cuvrystraße 25";10997;"Berlin";13558,83
+"Grüne";"Paul, Josefine";"Sauerländer Weg 3";48143;"Münster";12837,21
+"Grüne";"Paus, Lisa";"Güntzelstraße 3";10717;"Berlin";14565,24
+"Grüne";"Peter, Simone Dr.";"Rothenbühler Weg 44";66123;"Saarbrücken";14100,2
+"Grüne";"Pieta, Franz Dieter";"Bourscheidtstraße 42";52249;"Eschweiler";12404,08
+"Grüne";"Polat, Filiz";"Hinrich-Wilhelm-Kopf-Platz 1";30159;"Hannover";12439,9
+"Grüne";"Pothmer, Brigitte";"Am Wildgatter 24";31139;"Hildesheim";18244
+"Grüne";"Priggen, Reiner";"Preusweg 3";52074;"Aachen";10790,4
+"Grüne";"Remmel, Johannes";"Graf-Lucknerstraße 51";57076;"Siegen";20373,53
+"Grüne";"Reuter, Ingrid";"Hohenzollernstraße 9";44135;"Dortmund";17540,9
+"Grüne";"Rößner, Tabea";"Külbstraße 2";55131;"Mainz";16463
+"Grüne";"Rühle, Heide";"Liststraße 65";70180;"Stuttgart";19196,17
+"Grüne";"Runge, Martin";"Fasanenweg 44 a";82194;"Gröbenzell";10785
+"Grüne";"Säger, Krista";"Hopfenstraße 28";20359;"Hamburg";19316,28
+"Grüne";"Sarrazin, Manuel";"Alter Postweg 13";21075;"Hamburg";20870
+"Grüne";"Schaffer, Verena";"Mozartstraße 20";58452;"Witten";17134,31
+"Grüne";"Scharfenberg, Maria";"Schemrieder Straße 26";93164;"Laaber";11090,4
+"Grüne";"Schick, Gerhard Dr.";"Moorweg 90";13509;"Berlin";23111
+"Grüne";"Schloemer, Verena";"Rütger-von-Scheven-Straße 13";52349;"Düren";11910,55
+"Grüne";"Schmidt, Frithjof";"Am Siepen 15";44803;"Bochum";18784
+"Grüne";"Schroedter, Elisabeth";"Marienallee 7";14552;"Michendorf";13983
+"Grüne";"Schulz, Franz";"Görlitzer Straße 61";10997;"Berlin";12841,24
+"Grüne";"Schulz-Asche, Kordula";"Neugasse 7";65760;"Eschborn";14380,79
+"Grüne";"Sckerl, Hans-Ulrich";"Haselnussweg 12";69469;"Weinheim";13448,98
+"Grüne";"Seidl, Ruth Dr.";"Am Hoverberg 7";41849;"Wassenberg";10043,28
+"Grüne";"Siegesmund, Anja";"Ebertstraße 14";7743;"Jena";10393,91
+"Grüne";"Siemes, Hans-Josef";"Mülforterstraße 193d";41238;"Mönchengladbach";10560,68
+"Grüne";"Sitzmann, Edith";"Adinda-Flemmich-Straße 1";79100;"Freiburg";16745,1
+"Grüne";"Sixt AG, ";"Zugspitzstraße 1";82049;"Höllriegelskreuth";28000
+"Grüne";"Sorge, Sarah";"Mittlerer Schafhofweg 10";60598;"Frankfurt";12196,38
+"Grüne";"Splett, Gisela";"Breslauer Straße 43 d";76139;"Karlsruhe";13579,76
+"Grüne";"Sprinkart, Adi";"Gopprechts 16";87448;"Waltenhofen";10911,4
+"Grüne";"Stahl, Christine";"Germersheimer Str 16";90469;"Nürnberg";15894,04
+"Grüne";"Staudte, Miriam";"Lüdersburger Straße 7";21379;"Lüdersburg";12980
+"Grüne";"Steffens, Barbara";"Waldsaum 3";45470;"Mülheim / Ruhr";25009,16
+"Grüne";"Steiner, Dorothea";"An der Petersburg 13";49082;"Osnabrück";18324
+"Grüne";"Strehlau-Thomas, Ines";"Achtern Kronskamp 4";25469;"Halstenbek";10952,16
+"Grüne";"Strengmann-Kuhn, Wolfgang Dr.";"Sophienstraße 6";60487;"Frankfurtam Main";12853,8
+"Grüne";"Ströbele, Hans-Christian";"Holsteiner Ufer 22";10557;"Berlin";31110
+"Grüne";"Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.";"Löffelstraße 22-24";70597;"Stuttgart";60000
+"Grüne";"Tausendfreund, Susanna";"Kagerbauerstraße 27 a";82049;"Pullach";14594,05
+"Grüne";"Tertocha, Peter";"Honigmannstraße 5";45896;"Gelsenkirchen";14233,31
+"Grüne";"Tietze, Andreas";"Maybachstraße 7";25980;"Westerland";11114,62
+"Grüne";"Tolle, Simone";"Am Höher 17";97450;"Arnstein";11688
+"Grüne";"Tressel, Markus";"Reneauldstraße 28";66740;"Saarlouis";13574,5
+"Grüne";"Trittin, Jürgen";"Platz der Republik 1";11011;"Berlin";18468
+"Grüne";"Trüpel, Helga Dr.";"Lessingstraße 10";28203;"Bremen";14625,36
+"Grüne";"Twesten, Elke";"Zevener Straße 31";27383;"Scheeßel";12966,1
+"Grüne";"Ünal, Arif";"Laurenz-Kiesgen-Straße 44";51105;"Köln";14494,39
+"Grüne";"Untersteller, Franz";"Jettenhartstraße 5";72622;"Nürtingen";13925,67
+"Grüne";"Verband der Bayerischen Metall- und Elektroindustrie";"Max Joseph-Straße 5";80333;"München";35000
+"Grüne";"Verband der chemischen Industrie";"Mainzer Landstraße 55";60329;"Frankfurt";20000
+"Grüne";"Vogel, Axel";"Rud.-Breitscheidt-Straße 22";16225;"Eberswalde";22680
+"Grüne";"Voith GmbH Abt. WC";"St.-Pöltener-Straße 43";89522;"Heidenheim";15000
+"Grüne";"von Dassel, Stephan";"Gustav-Müller-Straße 17";10829;"Berlin";13985,24
+"Grüne";"von Notz, Konstantin";"Friedrich-Ebert-Allee 3";23879;"Mölln";19084
+"Grüne";"Vonnekold, Gabriele";"Paul-Lincke-Ufer 23";10999;"Berlin";14136,85
+"Grüne";"Voß, Bernd";"Diekdorf, Nr. 124";25554;"Nortorf";11654,48
+"Grüne";"Wagner, Daniela";"Gundolfstraße 21";64287;"Darmstadt";19007,08
+"Grüne";"Wagner, Mathias";"Schlichterstraße 15";65185;"Wiesbaden";12742,38
+"Grüne";"Wenzel, Stefan";"Wilhelm-Bendick-Straße 23";37130;"Gleichen";12103,99
+"Grüne";"Wieland, Wolfgang";"Paul-Lincke-Ufer 32";10999;"Berlin";20984
+"Grüne";"Wilke, Volker";"Werkstraße 18";46117;"Oberhausen";12546
+"Grüne";"Willger, Claudia";"Raiffeisenstraße 7";66129;"Saarbrücken";10670,6
+"Grüne";"Wilms, Valerie Dr.";"Hörnstraße 4";22880;"Wedel";13666
+"Grüne";"Windframe Sarow GmbH";"Staulinie 14-17";26122;"Oldenburg";20000
+"Grüne";"Winkler, Josef";"Ehrlichsweg 9";56130;"Bad Ems";17278,78
+"Grüne";"Wölfle, Werner";"Zeppelinstraße 47";70193;"Stuttgart";11735
+"Grüne";"Zentis, Gudrun";"Auf dem Schildchen 11";52385;"Nideggen";13585,8
+"FDP";"Ahlers, Dirk";"Theodorstr. 42-90/4";22761;"Hamburg";25346,7
+"FDP";"Ahrendt, Christian Joachim";"Johann-Stelling-Str. 1";19053;"Schwerin";14272
+"FDP";"Allfinanz Deutsche Vermögensberatung AG";"Münchener Str. 1";60329;"Frankfurt";30000
+"FDP";"Allianz SE";"Königinstr. 28";80802;"München";50001
+"FDP";"ARAG Holding SE";"ARAG-Platz 1";40472;"Düsseldorf";20000
+"FDP";"Bayerische Motorenwerke AG";"Petuelring 130";80809;"München";59024,04
+"FDP";"Berolina Handelskontor Beteiligungsgesellschaft mbH";"Hultschiner Damm 19";12623;"Berlin";19777,8
+"FDP";"Bläsing, Robert";"Sandfoort 80";22415;"Hamburg";10900
+"FDP";"Bösch, Dr. Carl";"Mühlenstr. 44";49324;"Melle";12233
+"FDP";"Brunkhorst, Angelika";"Wohlde 6";27243;"Winkelsett";10072,5
+"FDP";"CNC-Communication & Network Consulting AG";"Leopoldstr. 10";80802;"München";48000
+"FDP";"Daimler AG";"Mercedesstr. 137";70546;"Stuttgart";45000
+"FDP";"Deutsche Vermögensberatung AG DVAG";"Münchener Str. 1";60329;"Frankfurt";40000
+"FDP";"Deutschmann, Reiner";"Prietitzer Str. 19";1917;"Kamenz";10670
+"FDP";"Dommermuth, Philipp";"Bahnhofstr. 71";56410;"Montabaur";48000
+"FDP";"Dommermuth, Ralph";"Friedensstr. 4";56410;"Montabaur";48000
+"FDP";"Döring, Patrick";"Kleefelder Str. 11";30175;"Hannover";11678
+"FDP";"Dyckmans, Mechthild";"Bei den Tannen 5";34128;"Kassel";10700
+"FDP";"Ergo Versicherungsgruppe AG*";"Victoriaplatz 2";40477;"Düsseldorf";15000
+"FDP";"Evonik Industries AG";"Rellinghauser Str. 1-11";45128;"Essen";35000
+"FDP";"Fauser, Beate";"Forststr. 38";75382;"Althengstett";13320
+"FDP";"Gauseimann AG";"Merkur-Allee 1-15";32339;"Espelkamp";12000
+"FDP";"Hacker, Thomas";"St.-Nikolaus-Str. 2";95445;"Bayreuth";10840
+"FDP";"Hessel, Katja";"Bülowstr. 67";90491;"Nürnberg";12000
+"FDP";"Jansen-Winkeln, Dr. Anno Maria";"Rheydter Str. 60";41065;"Mönchengladbach";10918,5
+"FDP";"Joh. Berenberg, Gossler & Co KG";"Neuer Jungfernstieg 20";20354;"Hamburg";25000
+"FDP";"Kamp, Heiner";"Kaupmanns Kamp 33a";33775;"Versmold";11312
+"FDP";"Klein, Karsten";"Leiderer Stadtweg 17";63741;"Aschaffenburg";10236
+"FDP";"Lanfermann, Heinz";"Brandenburger Straße 66";14467;"Potsdam";10420
+"FDP";"Leibrecht, Harald W.";"Schloß Ingersheim";74379;"Ingersheim";11633
+"FDP";"Leonhard, Gino";"Dammstr. 8";18528;"Bergen";10072
+"FDP";"Leutheusser-Schnarrenberger, Sabine";"Wielinger Str. 10B";82340;"Feldafing";11684
+"FDP";"Meierhofer, Horst";"Nürnberger Str. 160";93059;"Regensburg";12109,7
+"FDP";"Meinhardt, Patrick";"Steinstr. 5";76530;"Baden-Baden";16344
+"FDP";"Mücke, Jan";"Mittlere Bergstr. 18A";1445;"Radebeul";10064
+"FDP";"Münchener Rückversicherungsgesellschaft AG*";"Königinstr. 107";80802;"München";15000
+"FDP";"Neumann, Prof. Dr. Martin";"Emst-Thälmann-Str. 58";3226;"Vetschau";16857
+"FDP";"Paul, Stephen";"Altensenner Weg 104";32052;"Herford";11600
+"FDP";"Philip Morris GmbH";"Am Haag 14";82166;"Gräfelfing";12000
+"FDP";"Reimers, Britta";"Hennstedter Str. 14";25581;"Poyenberg";12300
+"FDP";"Reinemund, Dr. Birgit";"Wilhelmstr. 20";68259;"Mannheim";10765
+"FDP";"Robert Bosch GmbH";"Robert-Bosch-Platz 1";70839;"Gerlingen";25000
+"FDP";"Salo Holding AG";"Spaldingstr. 57-59";20097;"Hamburg";32913,38
+"FDP";"Schäffler, Frank";"Gewinghauser Straße 77";32257;"Bünde";12620
+"FDP";"Stadler, Dr. Max Josef";"Hochlandweg 7";94036;"Passau";10800
+"FDP";"Suding, Katja";"Heinrich-Bomhoff-Weg 2";22607;"Hamburg";10734,6
+"FDP";"Verband der Bayerischen Metall- und Elektro-Industrie e.V. (VBM )";"Max-Joseph-Str. 5";80333;"München";80000
+"FDP";"Verband der chemischen Industrie e.V.";"Mainzer-Landstr. 55";60329;"Frankfurt";72000
+"FDP";"Voith GmbH";"Sankt Pöltener Str. 43";89522;"Heidenheim";15000
+"FDP";"Wissing, Dr. Volker";"Hauptstr. 2";76889;"Barbelroth";10201
+"FDP";"Wolff, Hartfrid";"Fuchshofweg 16";73614;"Schorndorf";12380,92
+"CDU";"A. Zovko GmbH & Co. KG";"Carl-Zeiss-Straße 20";74078;"Heilbronn";10300
+"CDU";"Aesculap AG";"Am Aesculap-Platz";78532;"Tuttlingen";15000
+"CDU";"ALBA Group plc & Co. KG";"Bismarckstraße 105";10625;"Berlin";15000
+"CDU";"Aldra Ernst Guenther Albers GmbH";"Hindenburgstraße 26";25704;"Meldorf";20000
+"CDU";"Allfinanz Deutsche Vermögensberatung Aktiengesellschaft";"Münchener Straße 1";60329;"Frankfurt am Main";40000
+"CDU";"Allianz SE";"Königinstraße 28";80802;"München";50001
+"CDU";"Altira Renewables Management GmbH";"Grüneburgweg 18";60322;"Frankfurt am Main";30000
+"CDU";"Anton Häring e.K. Werk für Präzisionstechnik";"Bergstraße 9";78585;"Bubsheim";41000
+"CDU";"Arbeitgeberverband der Metall- u. Elektroindustrie Lüdenscheid e.V.";"Staberger Straße 5";58511;"Lüdenscheid";25000
+"CDU";"AUGUST STORCK KG";"Waldstraße 27";13403;"Berlin";20000
+"CDU";"Bausinger, Anton";"Herrigergasse 11";50933;"Köln";10524,75
+"CDU";"Bayerische Motoren Werke AG";"Petuelring 130";80788;"München";57048,34
+"CDU";"Bellmann, Veronika";"Am Pfarrberg 8";9575;"Eppendorf";12616,18
+"CDU";"Berenberg Bank Joh. Berenberg, Gossler & Co. KG";"Neuer Jungfernstieg 20";20354;"Hamburg";180000
+"CDU";"Biesenbach, Peter";"Etapler Platz 2";42499;"Hückeswagen";12809,8
+"CDU";"Black Eagle KG";"Poststraße 7";40213;"Düsseldorf";30000
+"CDU";"Blume, Dr. Heiko";"Zum Hasel 2";29525;"Uelzen";19712
+"CDU";"Bogdol, Detlef";"Poppenbüttler Bogen 4";22399;"Hamburg";14000
+"CDU";"Brietzke, Klaus";"Dorfstraße 15a";16567;"Schönfließ";11316,76
+"CDU";"Bücher, Dietmar";"Veitenmühlenweg 2";65510;"Idstein";20000
+"CDU";"Bundesverband Deutscher Vermögensberater e.V.";"Wilhelm-Leuschner-Straße 17-19";60329;"Frankfurt am Main";21000
+"CDU";"CITTI Handelsgesellschaft mbH & Co. KG";"Mühlendamm 1";24113;"Kiel";22500
+"CDU";"Daimler AG";"Mercedesstraße 137";70327;"Stuttgart";150000
+"CDU";"Daun, Claas";"Roggenmoorweg 33";26180;"Rastede";11800
+"CDU";"Demirbüken-Wegner, Emine";"Auguste-Viktoria-Straße 28";13467;"Berlin";14534,49
+"CDU";"Deppmeyer, Otto";"Hemeringer Straße 6";31840;"Hessisch Oldendorf";10681,68
+"CDU";"Dettmers Manske Weinhardt Rechtsanwälte Steuerberater Wirtschaftsprüfer";"Kurfürstendamm 48-49";10707;"Berlin";13000
+"CDU";"Deutsche Vermögensberatung Aktiengesellschaft DVAG";"Münchener Straße 1";60329;"Frankfurt am Main";135500
+"CDU";"DIC ASSET AG";"Eschersheimer Landstraße 223";60320;"Frankfurt am Main";15000
+"CDU";"Dietmann, Michael";"Am Steinbergpark 61";13437;"Berlin";18180,02
+"CDU";"Dombrowski, Dieter";"Dorfstraße 30";14715;"Milower Land OT Bahnitz";11578,1
+"CDU";"Dr. August Oetker KG";"Lutterstraße 14";33617;"Bielefeld";60000
+"CDU";"Dr. Ing. h. c. F. Porsche AG";"Porscheplatz 1";70435;"Stuttgart";50000
+"CDU";"Dr. Theiss Naturwaren GmbH";"Michelinstraße 20";66424;"Homburg";40500
+"CDU";"EADS Deutschland GmbH";"Willy-Messerschmitt-Straße 1";85521;"Ottobrunn";20000
+"CDU";"EAN Energieanlagen Nord GmbH";"Gerstenstraße 7";17034;"Neubrandenburg";11000
+"CDU";"ERGO Versicherungsgruppe AG";"Victoriaplatz 2";40477;"Düsseldorf";15000
+"CDU";"Evonik Industries AG";"Rellinghauser Straße 1-11";45128;"Essen";35000
+"CDU";"Federle, Dr. Lisa";"Österbergstraße 11";72074;"Tübingen";13221,02
+"CDU";"Finck, August";"Amiraplatz 1";80333;"München";15500
+"CDU";"Fr. Lürssen Werft GmbH & Co. KG";"Zum alten Speicher 11";28759;"Bremen";11500
+"CDU";"Franz, Klaus";"Kuhlenkötterweg 26";44795;"Bochum";10990,54
+"CDU";"GAUSELMANN AG";"Merkur-Allee 1-15";32339;"Espelkamp";12000
+"CDU";"Gegenbauer Holding SA & Co. KG";"Paul-Robeson-Straße 37";10439;"Berlin";14500
+"CDU";"Gerhold, Dr. Karl";"Hanebuthwinkel 28";30655;"Hannover";12306,78
+"CDU";"Gorr, Angela";"Kreuzberg 1";38855;"Wernigerode";11352,71
+"CDU";"Goschmann, Stefany";"Hügelstraße 67";64653;"Lorsch";12000
+"CDU";"Gram, Andreas";"Markgrafenstraße 57";10117;"Berlin";11790
+"CDU";"Gröhler, Klaus-Dieter";"Otto-Suhr-Allee 100";10585;"Berlin";10470
+"CDU";"Heinemann, Robert";"Lobuschstraße 12";22765;"Hamburg";18489,29
+"CDU";"Heintze, Roland";"Wendlohstraße 37b";22459;"Hamburg";10166,34
+"CDU";"Heister-Neumann, Elisabeth";"Chardtstraße 13";38350;"Helmstedt";10854,25
+"CDU";"Henkel, Frank";"Friedrichsgracht 56";10178;"Berlin";15130
+"CDU";"Herrenknecht, Dr.-Ing E.h. Martin";"Waldweg 9";77963;"Schwanau";37000
+"CDU";"Hintze, Peter";"Reichenberger Straße 11b";53604;"Bad Honnef";10203,28
+"CDU";"Horbach, Peter";"Niederbreitbacher Straße 10a";53547;"Hausen-Solscheid";15000
+"CDU";"Huth, Dr. Harald G.";"Badenallee 12";14052;"Berlin";20000
+"CDU";"IBC SOLAR AG";"Am Hochgericht 10";96231;"Bad Staffelstein";20000
+"CDU";"Innerstadt GmbH & Co. KG";"Ludwig-Ennecerus-Platz 1";31535;"Neustadt";27000
+"CDU";"ITG Ingenieur-, Tief- und Gleisbau GmbH";"Koppelstraße 37";18437;"Stralsund";16000
+"CDU";"juwi Holding AG";"Energie-Allee 1";55286;"Wörrstadt";16000
+"CDU";"Keller, Veronika";"Alfred-Keller-Straße 55";53721;"Siegburg";20500
+"CDU";"Kipp, Dr. h. c. Karl-Heinz";"Friedrichstraße 15";55232;"Alzey";20000
+"CDU";"Klare, Karl-Heinz";"Gagelstraße 14";49356;"Diepholz";12754,67
+"CDU";"Kley, Max Dietrich";"Bergstraße 72";69120;"Heidelberg";16500
+"CDU";"Klosseck, Rolf";"Pfalzgrafenweg 18/1";72766;"Reutlingen";15000
+"CDU";"König, Dr. Armin";"Jahnstraße 9";66557;"Illingen";10070,28
+"CDU";"Körte, Prof. Dr. Niels Hahns";"Mühle 7";12587;"Berlin";12381,85
+"CDU";"Krogmann, Dr. Martina";"Rykestraße 7";10405;"Berlin";12652,46
+"CDU";"Kultur & Reisen e.V.";"Hochstraße 63";58095;"Hagen";28500,74
+"CDU";"Laboratoire Biosthetique Kosmetik GmbH & Co. KG";"Gülichstraße 3-5";75179;"Pforzheim";25000
+"CDU";"Langmann, Prof. Dr. Hans Joachim";"Merckstraße 40";64342;"Seeheim-Jugenheim";34800
+"CDU";"Langmann, Dr. Marlies";"Merckstraße 40";64342;"Seeheim-Jugenheim";20000
+"CDU";"Lauk, Prof. Dr. Kurt Joachim";"Königstraße 1a";70173;"Stuttgart";11000
+"CDU";"Löderburger Baustoff + Transport GmbH & Co. KG";"Förderstedter Straße 6c";39418;"Staßfurt";10150
+"CDU";"LUTHARDT GmbH";"Reinhardtstraße 58";10117;"Berlin";22000
+"CDU";"M. M. Warburg & Co. Kommanditgesellschaft auf Aktien";"Ferdinandstraße 75";20095;"Hamburg";30000
+"CDU";"ME-LE GmbH & Co. Wärmeservice KG";"Eggesiner Straße 9c";17358;"Torgelow";11000
+"CDU";"Merck Finck & Co oHG Privatbankiers";"Paracellistraße 16";80333;"München";20560
+"CDU";"METALL NRW Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.";"Uerdinger Straße 58-62";40474;"Düsseldorf";75000
+"CDU";"Meyer, Detlev";"Liebfrauenkamp 6a";31535;"Neustadt";43100
+"CDU";"Mönstadt, Dietrich";"Lübecker Straße 5";19053;"Schwerin";10080
+"CDU";"Moritz, Arne";"Lacher Straße 50";42657;"Solingen";10911
+"CDU";"Müller, Holger";"Beienburger Straße 39";51503;"Rösrath";15798,52
+"CDU";"Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München";"Königinstraße 107";80802;"München";15000
+"CDU";"Nordagrar GmbH";"Zum Gutshof";23717;"Stendorf";15000
+"CDU";"Odewald, Dr. Jens";"Lustheide 31";51427;"Bergisch Gladbach";19500
+"CDU";"Oetker, Dr. Arend";"Bismarckallee 22";14193;"Berlin";25000
+"CDU";"Paal, Claus";"Bei der Kapelle 4";71384;"Weinstadt";14015
+"CDU";"Paul, Dr. Michael";"Pflasterhofweg 19b";50999;"Köln";17251,02
+"CDU";"P-D ChemiePark Bitterfeld Wolfen GmbH";"Zörbiger Straße 22";6749;"Bitterfeld-Wolfen";10300
+"CDU";"Pergande, Wilfried";"Mucher Straße 8";51109;"Köln";12000
+"CDU";"Philip Morris GmbH";"Am Haag 14";82166;"Gräfelfing";12000
+"CDU";"Pofalla, Ronald";"Lindenallee 49";47533;"Kleve";12784,76
+"CDU";"Pohl, Prof. Dr. Reinfried";"Gottfried-Keller-Straße 14";35039;"Marburg";65000
+"CDU";"Polenz, Ruprecht";"Straßburger Weg 18";48151;"Münster";10583,4
+"CDU";"Post, Norbert";"Neersbroicher Straße 54c";41066;"Mönchengladbach";11317,8
+"CDU";"R. Kossow & Levermann GmbH";"Carl-Kossow-Straße 46";18337;"Marlow";16677,55
+"CDU";"Rachel, Thomas";"Binsfelder Straße 95";52351;"Düren";10989,72
+"CDU";"Rademacher, Franz-Josef";"Rheinallee 111";40545;"Düsseldorf";25651,08
+"CDU";"Raettig, Dr. Lutz";"Wöhlerstraße 13";60323;"Frankfurt am Main";14875,2
+"CDU";"Rehm, Florian";"Neuer Weg 9";38302;"Wolfenbüttel";15000
+"CDU";"Reichenecker Holding GmbH & Co. KG";"Untere Rietstraße 30";72555;"Metzingen";10650
+"CDU";"Reif, Clemens";"Schrammweg 1";35745;"Herborn";15470,96
+"CDU";"Remondis GmbH & Co. KG";"Ost Pernitzer Straße 19a";14797;"Kloster Lehnin";14900
+"CDU";"Rheinmetall AG";"Rheinmetallplatz 1";40476;"Düsseldorf";16000
+"CDU";"Robert Bosch GmbH";"Robert-Bosch-Platz 1";70839;"Gerlingen-Schillerhöhe";40000
+"CDU";"Roock, Hans Detlef";"Poppenbütteler Weg 222";22399;"Hamburg";10030
+"CDU";"Rothenberger AG";"Spessartstraße 2-4";65779;"Kelkheim";47000
+"CDU";"Röttgen, Dr. Norbert";"Johannes-Albers-Allee 3";53639;"Königswinter";11193,96
+"CDU";"Rudolf WILD GmbH & Co. KG";"Rudolf-Wild-Straße 107-115";69214;"Eppelheim";20000
+"CDU";"Saftig, Dr. Alexander Keltenstraße 1";;56736;"Kottenheim";11880
+"CDU";"Schaeffler Technologies GmbH & Co. KG";"Industriestraße 1-3";91074;"Herzogenaurach";49000
+"CDU";"Scharf, Jürgen";"Am Mittelteich 12c";39114;"Magdeburg";10270
+"CDU";"Scheidt GmbH & Co. KG";"Galgenfeld 2";31737;"Rinteln";13000
+"CDU";"Schleifer, Dr. Carl-Hermann";"Dorfstraße 5";24351;"Thumby-Sieseby";10500
+"CDU";"Schmidt-Weiss, Werner";"Mittlerer Weg 62";74564;"Crailsheim";13470
+"CDU";"Schnellecke, Prof. Rolf";"Kiefernweg 7";38446;"Wolfsburg";25000
+"CDU";"Schnieder, Patrick";"Im Hammesgarten 24";54687;"Arzfeld";10138,45
+"CDU";"Schreiner, Gerd";"Am Fort Heiligkreuz 15";55131;"Mainz";11450
+"CDU";"Schröder, Stephan";"Alt Kosenow 46";17398;"Neu Kosenow";11000
+"CDU";"Schultze-Berndt, Jürn Jakob";"Ludolfinger Weg 43c";13465;"Berlin";11780
+"CDU";"Selle, Johannes";"Oberdorf 1";99706;"Großfurra";10779,8
+"CDU";"Steffel, Dr. Frank";"Sigismundkorso 54";13465;"Berlin";10280
+"CDU";"Steffen GmbH";"Mühlenstraße 72";17098;"Friedland";13476,75
+"CDU";"Stihl, Dipl-Ing. Hans Peter";"Silcherstraße 33";71686;"Remseck";13000
+"CDU";"STINAG Stuttgart Invest AG";"Böblinger Straße 104";70199;"Stuttgart";19800
+"CDU";"STRELAPARK Einkaufszentrum GmbH & Co. KG";"Mühlendamm 1";24113;"Kiel";12400
+"CDU";"Ströer Deutsche Städte Medien GmbH";"Puschkinallee 6a";12435;"Berlin";13400
+"CDU";"SÜDWESTMETALL Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.";"Löffelstraße 22-24";70597;"Stuttgart";105000
+"CDU";"Südzucker AG";"Theodor-Heuss-Anlage 12";68165;"Mannheim";13000
+"CDU";"Tengelmann Warenhandelsgesellschaft KG";"Wissollstraße 5-43";45478;"Mülheim an der Ruhr";15000
+"CDU";"Thiele, Ulf";"Truglandsweg 11";26670;"Uplengen";10044,55
+"CDU";"Tillich, Stanislaw";"Siedlung 5";1920;"Panschwitz-Kuckau";12100
+"CDU";"TOCOS Beteiligung GmbH";"Ballindamm 36";20095;"Hamburg";44500
+"CDU";"TRIMET Aluminium AG";"Aluminium Allee 1";45356;"Essen";30500
+"CDU";"TRUMPF Laser- und Systemtechnik GmbH";"Johann-Maus-Straße 2";71254;"Ditzingen";50000
+"CDU";"TRUMPF Werkzeugmaschinen GmbH & Co. KG";"Johann-Maus-Straße 2";71254;"Ditzingen";85000
+"CDU";"UBG Unternehmensberatung und Betreuung GmbH";"Bismarckstraße 7";35037;"Marburg";40000
+"CDU";"Verband der Chemischen Industrie e. V.";"Mainzer Landstraße 55";60329;"Frankfurt am Main";110000
+"CDU";"Voith GmbH";"Sankt Pöltener Straße 43";89522;"Heidenheim";31000
+"CDU";"von Finck, August";"Amiraplatz 1";80333;"München";15000
+"CDU";"von Waldburg-Zeil-Trauchburg, Fürst Georg";"Schloss Zeil";88299;"Leutkirch im Allgäu";12000
+"CDU";"Voßhoff, Andrea";"Am Körgraben 1g";14712;"Rathenow";13004,28
+"CDU";"Wacker, Georg";"In den Fensenbäumen 23";69198;"Schriesheim";19241,08
+"CDU";"Weber, Günter";"Zachow 5b";17094;"Groß Nemerow";10700
+"CDU";"Wersich, Dietrich";"Alsterdorfer Straße 328";22297;"Hamburg";13594
+"CDU";"Wimmer, Wiljo";"Westerburgstraße 8a";41541;"Dormagen";15556,93
+"CDU";"Wollenschlaeger, Thilo-Harry";"Werkstraße 1";16727;"Oberkrämer OT Bötzow";25617,91
+"CDU";"Zellstoff Stendal GmbH";"Goldbecker Straße 1";39596;"Arneburg";13500
+"CDU";"Zylajew, Willi";"Severinusstraße 84";50354;"Hürth";12764,04
+"CSU";"adp Gauselmann GmbH";"Merkur-Allee 1-15";32339;"Espelkamp";12000
+"CSU";"Aigner, Ilse MdB";"Wiesseer Straße 16";83703;"Gmund am Tegernsee";12294,72
+"CSU";"Allianz SE";"Königinstraße 28";80802;"München";50001
+"CSU";"BAUER Aktiengesellschaft ";"BAUER-Straße 1";86529;"Schrobenhausen";15000
+"CSU";"Bayerischer Bauindustrieverband e.V. ";"Oberanger 32";80331;"München";37000
+"CSU";"BayWa AG ";"Arabellastraße 4";81925;"München";15035
+"CSU";"Bionorica SE ";"Kerschensteiner Straße 11-15";92318;"Neumarkt";14300
+"CSU";"BMW Bayerische Motorenwerke AG";"Petuelring 130";80788;"München";141750,44
+"CSU";"Brunner, Helmut MdL";"Hinterdietzberg 1";94239;"Ruhmannsfelden";13142,9
+"CSU";"Daimler AG ";"Mercedesstraße 137";70546;"Stuttgart";45000
+"CSU";"Eck, Gerhard MdL";"Am Schärf 15";97499;"Donnersdorf";12392,36
+"CSU";"ERGO Versicherungsgruppe AG";"Victoriaplatz ";40198;"Düsseldorf";15000
+"CSU";"Evonik Industries AG";"Rellinghauser Straße 1-11";45128;"Essen";15000
+"CSU";"Fahrenschon Georg ";"Waldkirchbogen 4";82061;"Neuried";10727,82
+"CSU";"Friedrich, Hans Peter MdB";"Südring 23";95032;"Hof";10693,8
+"CSU";"Görlitz, Erika MdL";"Ingolstädter Straße 126";85077;"Manching";11724,14
+"CSU";"Haderthauer, Christine MdL";"Haltmayrstraße 3";85049;"Ingolstadt";14686,98
+"CSU";"Hahn, Florian MdB";"Bauemweg 19";85640;"Putzbrunn";12930,14
+"CSU";"Herrmann, Joachim MdL";"Bogenweg 11";91054;"Erlangen";12972,9
+"CSU";"Hintersberger, Johannes MdL";"Neuburger Straße 15";86167;"Augsburg";10366,34
+"CSU";"Huber, Dr. MdL";"Hofgasse 6";84539;"Ampfing";13137,14
+"CSU";"Huml, Melanie MdL";"Luitpoldstraße 55";96052;"Bamberg";12649,86
+"CSU";"IBC Solar AG";"Am Hochgericht 10";96231;"Bad Staffelstein";47000
+"CSU";"JK Wohnbau AG";"Leopoldstraße 8";80802;"München";12500
+"CSU";"Koschyk, Hartmut MdB";"Schlossweg 5";95497;"Goldkronach";14375,44
+"CSU";"Krauss-Maffei Wegmann GmbH & Co. KG";"Krauss-Maffei-Straße 11";80997;"München";17000
+"CSU";"Meißner, Christian ";"Kronacher Straße 37";96215;"Lichtenfels";10737,14
+"CSU";"Merk, Dr. Beate, MdL";"Schulstraße 7";89233;"Neu-Ulm";13137,9
+"CSU";"Michelbach, Hans MdB";"Casimirstr. 11";96450;"Coburg";10168,04
+"CSU";"Möller, Horst ";"Poppenbütteler Weg 25";22339;"Hamburg";10084
+"CSU";"Müller, Emilia ";"Hinterrandsberg 7";92436;"Bruck";10514,2
+"CSU";"Müller, Dr. Gerd MdB";"Neisser Straße 5";87437;"Kempten";10562,84
+"CSU";"Münchener Rückversicherungs-Gesellschaft AG";"Königinstraße 107";80802;"München";15000
+"CSU";"Oswald, Eduard MdB";"Waldweg 18";86424;"Dinkelscherben";12743,83
+"CSU";"Philip Morris GmbH";"Am Haag 14";82166;"Gräfelfing";12000
+"CSU";"Plenk, Helmut ";"Bischof-Freundorfer-Straße 1";94253;"Bischofsmais";20258
+"CSU";"Pschierer, Franz MdL";"Sebastianspark 7";87719;"Mindelheim";12304,86
+"CSU";"Ramsauer, Dr. Peter MdB";"Mühlenstraße 3";83374;"Traunwalchen";12264,72
+"CSU";"Ruck, Dr. Christian MdB";"Heilig-Kreuz-Straße 24";86152;"Augsburg";11463,04
+"CSU";"Sackmann, Markus MdL";"Heimrad-Prem-Straße 1";93426;"Roding";20756,56
+"CSU";"Schertier Holding ";"Hofsteigstraße 4";6923;"Lauterach, Österreich";20000
+"CSU";"Scheuer, Andreas MdB";"Vomholzstraße 107";94036;"Passau";11714,68
+"CSU";"Schmidt, Christian MdB";"Ansbacher Straße 20 b";91413;"Neustadt a. d. Aisch";10792,84
+"CSU";"Schmidt-Burkhardt, Henriette ";"An der Schwedenschanze 11";90455;"Nürnberg";20000
+"CSU";"Schön Klinik Verwaltung GmbH";"Seestraße 5 a";83209;"Prien am Chiemsee";25000
+"CSU";"Seehofer, Horst ";"Nymphenburger Straße 64";80335;"München";11139,72
+"CSU";"Söder, Dr. Markus MdL";"Fliederweg 11";90480;"Nürnberg";13072,9
+"CSU";"Spaenle, Dr. Ludwig MdL";"Virchowstraße 27";80805;"München";12956,87
+"CSU";"Stamm, Barbara MdL";"Spessartstraße 71,";97082;"Würzburg";10570,48
+"CSU";"TQ-Systems GmbH";"Mühlstraße 2";82229;"Seefeld";15000
+"CSU";"Verband der Bayerischen Metall- und Elektroindustrie e.V.";"Max-Joseph-Straße 5";80333;"München";371310
+"CSU";"Verein der Bayerischen Chemischen Industrie e.V.";"Innstraße 15";81679;"München";47000
+"CSU";"Wolf, Martin ";"Ingolstädter Straße 40";85276;"Pfaffenhofen";10430,6
+"Linke";"Adler, Hans-Henning";"Weidenstraße 17 ";26135;"Oldenburg";19764
+"Linke";"Aggelidis, Michael";"Falkenweg 32 ";53125;"Bonn";12312,5
+"Linke";"Akbayir, Hamide";"Lindelaufstraße 28 ";51061;"Köln";12870
+"Linke";"Alpers, Agnes";"Innsbrucker Straße 6 ";28215;"Bremen";11350
+"Linke";"Atalan, Ali";"Böttcherstraße 13a ";48165;"Münster";12460
+"Linke";"Bartsch, Dietmar";"Schlehenweg 2 ";18375;"Prerow";12260
+"Linke";"Behrens, Herbert";"Am Hochzeitswald 56 ";27711;"Osterholz-Scharmbeck";15478,41
+"Linke";"Beuermann, Bärbel";"Kurhausstraße 106 ";44652;"Herne";13648,55
+"Linke";"Binder, Karin";"Marienstraße 38 ";76137;"Karlsruhe";14500
+"Linke";"Birkwald, Matthias W.";"Vondelstraße 12 ";50677;"Köln";19738,86
+"Linke";"Bisky, Lothar";"Kurzwalde 8g ";4889;"Schildau";13800
+"Linke";"Bluhm, Heidrun";"Schloßgartenallee 21 ";19061;"Schwerin";13270
+"Linke";"Bockhahn, Steffen";"Lange Straße 24 ";18055;"Rostock";14109
+"Linke";"Böth, Gunhild";"Taubenstraße 15 ";42281;"Wuppertal";18100
+"Linke";"Buchholz, Christine";"Weichselstraße 65 ";12043;"Berlin";12180
+"Linke";"Bull, Birke";"Mandolinenweg 8a ";6128;"Halle";10758
+"Linke";"Bulling-Schröter, Eva-Maria";"Röntgenstraße 41a ";85055;"Ingolstadt";13850
+"Linke";"Bunge, Martina";"Heinrich-Heine-Straße 29 ";18119;"Rostock";15025
+"Linke";"Butterwegge, Carolin";"Clarenbachstraße 154 ";50931;"Köln";12360
+"Linke";"Claus, Roland";"Wenzelgasse 12 ";6618;"Naumburg";15170
+"Linke";"Conrads, Anna";"Holteistraße 68 ";47057;"Duisburg";12170
+"Linke";"Dagdelen, Sevim";"Oskar-Hoffmann-Straße 37 ";44789;"Bochum";20060
+"Linke";"Dehm-Desoi, Jörg-Diether";"Am Rainbaum 7-9 ";36132;"Eiterfeld";11730
+"Linke";"Demirel, Özlem Alev";"Europaring 1 ";51109;"Köln";11015
+"Linke";"Dittrich, Heidrun";"Varrelmannstraße 1 ";30453;"Hannover";11630
+"Linke";"Dreibus, Werner";"Vogesenstraße 36 ";63456;"Hanau";16920
+"Linke";"Enkelmann, Dagmar";"Alte Schönower Chaussee 25 ";16321;"Bernau";15695
+"Linke";"Ernst, Cornelia";"Hartwigweg 8 ";1156;"Dresden";15180
+"Linke";"Ernst, Klaus Friedrich";"Kammerbergstraße 24 ";97450;"Arnstein";14410
+"Linke";"Flauger, Kreszentia";"Bei der Kammer 22 ";27793;"Wildeshausen";11775,88
+"Linke";"Freye, Wolfgang";"Windmühlenstraße 25 ";45147;"Essen";12040,51
+"Linke";"Gallert, Wulf";"Nahrstedter Weg 29 ";39110;"Magdeburg";19160
+"Linke";"Gehrcke-Reymann, Wolfgang";"Rykestraße 39 ";10405;"Berlin";13560
+"Linke";"Gohlke, Nicole";"Pariser Straße 44 ";81667;"München";13820
+"Linke";"Golze, Diana";"Eulerstraße 13 ";14712;"Rathenow";12285,87
+"Linke";"Groth, Annette";"Walter-Flex-Straße 44a ";70619;"Stuttgart";14100
+"Linke";"Gysi, Gregor";"Platz der Republik 1 ";11011;"Berlin";12240
+"Linke";"Händel, Thomas";"Berolzheimerstraße 29 ";90768;"Fürth";12560
+"Linke";"Hänsel, Heike";"Am LustnauerTor 4 ";72074;"Tübingen";13800
+"Linke";"Hein, Rosemarie";"Bandwirkerstraße 7b ";39114;"Magdeburg";14213,63
+"Linke";"Heyenn, Dora";"Leharstraße 17 ";22145;"Hamburg";11090
+"Linke";"Höger, Inge";"Bäckerstraße 27 ";32052;"Herford";20930
+"Linke";"Höll, Barbara";"Denkmalsblick 11 ";4277;"Leipzig";10160
+"Linke";"Holter, Helmut";"Gosewinkler Weg 77 ";19059;"Schwerin";11770
+"Linke";"Hunger, Angelika";"Christianenstraße 6 ";6217;"Merseburg";10471
+"Linke";"Hunko, Andrej";"Krakaustraße 17 ";52064;"Aachen";20000
+"Linke";"Jansen, Antje";"Nebenhofstraße 5a ";23558;"Lübeck";16747
+"Linke";"Jelpke, Ulla";"Kiehlufer 7 ";12059;"Berlin";19515
+"Linke";"Jersch, Stephan";"Krellweg 13 ";21033;"Hamburg";14484
+"Linke";"Kind, Thomas Rüdiger";"Dewitzer Straße 15 ";4425;"Taucha";12610
+"Linke";"Kipping, Katja";"Bürgerstraße 26 ";1127;"Dresden";13690
+"Linke";"Klaubert, Birgit";"Steinwitzer Straße 29 ";4600;"Altenbürg";12525
+"Linke";"Klein, Angelika";"Sickstraße 10 ";6317;"Seegebiet Mansfelder Land";11795
+"Linke";"Klute, Jürgen";"Brauwasserweg 39 ";44651;"Herne";12240
+"Linke";"Koch, Harald";"Ernst-Thälmann-Straße 13 ";96526;"Sangerhausen";12825
+"Linke";"Körte, Jan";"Stargarder Straße 29 ";10437;"Berlin";14680,5
+"Linke";"Krellmann, Jutta";"Triftstraße 5 ";31863;"Coppenbrügge";13320
+"Linke";"Kunert, Katrin";"Wahrburger Straße 48";39576;"Stendal";14750
+"Linke";"Lay, Caren Nicole";"Louisenstraße 25 ";1099;"Dresden";13240
+"Linke";"Leidig, Sabine";"Stresemannstraße 20 ";63450;"Hanau";13482
+"Linke";"Lenkert, Ralph";"Kösener Straße 37 ";7743;"Jena";15560,31
+"Linke";"Lerch, Herbert";"Parkstraße 14 ";8066;"Zwickau";20150
+"Linke";"Leutert, Michael Gerhard";"Barbarossastraße 90 ";9112;"Chemnitz";12240
+"Linke";"Liebich, Stefan";"Platz der Republik 1 ";11011;"Berlin";13250
+"Linke";"Lompscher, Katrin";"Mollstraße 8 ";10178;"Berlin";10200
+"Linke";"Lösing, Sabine";"Breymannstraße 3 ";37073;"Göttingen";12940
+"Linke";"Lötzer, Ursula";"Gülterberg 7 ";45239;"Essen";19350
+"Linke";"Lötzsch, Gesine";"Frankfurter Allee 122 ";10365;"Berlin";13300
+"Linke";"Lutze, Thomas";"Blumenstraße 20 ";66111;"Saarbrücken";14425
+"Linke";"Maurer, Ulrich";"Marienstraße 3a ";70178;"Stuttgart";10330
+"Linke";"Menzner, Dorothee";"WunstorferStraße 30 ";31535;"Neustadt am Rübenberge";12818
+"Linke";"Michalowsky, Ralf";"Grüner Weg 19 ";45966;"Gladbeck";20900
+"Linke";"Möhring, Cornelia";"Am Buchholz 6 ";24321;"Giekau";17188
+"Linke";"Möller, Kornelia";"Nebelhornstraße 7 ";80686;"München";13250
+"Linke";"Movassat, Niema";"Goethestraße 30 ";46047;"Oberhausen";14920
+"Linke";"Nord, Thomas";"Große Scharrnstraße 31 ";15230;"Frankfurt (Oder)";13325
+"Linke";"Paschke, Helga";"Heidestraße 44 ";39524;"Klietz";14054,4
+"Linke";"Pau, Petra";"Fercher Straße 26 ";12629;"Berlin";15888,5
+"Linke";"Petermann, Jens";"Am Kesselbrunn 25 ";99310;"Arnstadt";13240
+"Linke";"Pitterle, Richard";"Dachsklingeweg 19 ";71067;"Sindelfingen";16240
+"Linke";"Ploetz, Yvonne";"Von-der-Leyen-Straße 14 ";66453;"Gersheim";13300
+"Linke";"Prante, Ranka";"Breite Straße 45 ";25524;"Itzehoe";26383,72
+"Linke";"Ramelow, Bodo";"Herderstraße 46 ";99096;"Erfurt";14955,15
+"Linke";"Sagel, Rüdiger";"Schützenstraße 7 ";48143;"Münster";15650
+"Linke";"Schäfer, Paul";"Palanterstraße 55 ";50937;"Köln";22975
+"Linke";"Schippels, Ulrich";"Sternstraße 15 ";24103;"Kiel";24660,52
+"Linke";"Schlecht, Michael";"Etzelstraße 22 ";70180;"Stuttgart";11720
+"Linke";"Schmidt, Barbara";"Stennerstraße 22 ";33613;"Bielefeld";12242,7
+"Linke";"Scholz, Helmut";"Regensburger Straße 21 ";15738;"Zeuthen";12450
+"Linke";"Seifert, llja";"Albrechtstraße 10c ";10117;"Berlin";13440
+"Linke";"Senger-Schäfer, Kathrin";"Brahmstraße 12 ";67061;"Ludwigshafen am Rhein";17757,16
+"Linke";"Sharma, Raju";"Geschwister-Scholl-Straße 59 ";24340;"Eckernförde";13665
+"Linke";"Sitte, Petra";"Landsberger Straße 58 ";6112;"Halle (Saale)";16440
+"Linke";"Steinke, Kersten";"Fliederweg 49 ";6567;"Bad Frankenhausen";13200
+"Linke";"Stüber, Sabine";"Choriner Dorfstraße 1a ";16230;"Chorin";13450
+"Linke";"Süßmair, Alexander";"Bürgermeister-Bohl-Straße 26 ";86157;"Augsburg";18690
+"Linke";"Tackmann, Kirsten";"Bantikower Weg 1 ";16868;"Wusterhausen / Dosse";12595
+"Linke";"Tempel, Frank";"Zehma 38 ";4603;"Saara";11026,61
+"Linke";"Thiel, Frank";"Friedensburgstraße 1 ";6724;"Elsteraue";12257
+"Linke";"Troost, Axel";"Kreuzstraße 14 ";4103;"Leipzig";13640
+"Linke";"Ulrich, Alexander";"Flurstraße 5 ";66879;"Reichenbach-Steegen";11980
+"Linke";"van Aken, Jan Paul";"Scheplerstraße 78 ";22767;"Hamburg";10720
+"Linke";"van Ooyen, Willi";"Schultheißenweg 44 ";60489;"Frankfurt am Main";10380
+"Linke";"Vogler, Kathrin";"Rheiner Straße 103 ";48282;"Emsdetten";19795
+"Linke";"Voß, Johanna";"Dorfstraße 20a ";29485;"Lemgow";13990
+"Linke";"Wagenknecht-Niemeyer, Sahra";"Dönhoffstraße 11 ";10318;"Berlin";19375
+"Linke";"Wawzyniak, Halina";"Tempelhofer Ufer 7 ";10963;"Berlin";13982,01
+"Linke";"Weinberg, Harald";"Wachtelstraße 10 ";90427;"Nürnberg";12810
+"Linke";"Weisser-Roelle, Ursula";"Görgesstraße 3 ";38118;"Braunschweig";11000
+"Linke";"Werner, Katrin";"Deutschherrenstraße 20 ";54290;"Trier";16430
+"Linke";"Wils, Sabine";"Cordesweg 51 ";22415;"Hamburg";12000
+"Linke";"Wissler, Janine";"Adalbertstraße 30 ";60486;"Frankfurt am Main";14100
+"Linke";"Wolf, Harald";"Blumenstraße 44 ";10243;"Berlin";10100
+"Linke";"Wunderlich, Jörn Heinz Adolf";"Straße des Friedens 54 ";9212;"Limbach-Oberfrohna";11540
+"Linke";"Zimmer, Gabriele";"Am Alten Sportplatz 6a ";98553;"Nahetal-Waldau";13550
+"Linke";"Zimmermann, Sabine";"Kirchbergstraße 42 ";8412;"Werdau";13524,02
+"Linke";"Zimmermann, Wolfgang";"Düsselstraße 12 ";40219;"Düsseldorf";16224
+"SPD";"Adam, Michael";"Bahnhofstraße 35";"94249";"Bodenmais";10486
+"SPD";"Ahnen, Doris";"Landwehrweg 27";"55131";"Mainz";12056,85
+"SPD";"Allfinanz Deutsche Vermögensberatung AG";"Münchener Straße 1";"60329";"Frankfurt";25000
+"SPD";"Allianz SE";"Königinstraße 28";"80802";"München";50001
+"SPD";"Altpeter, Katrin";"Heinrich-Küderli-Straße 1";"71332";"Waiblingen";10309
+"SPD";"Anklam-Trapp, Kathrin";"Burgunderstraße 5";"67590";"Monsheim";13267,8
+"SPD";"Arndt-Brauer, Ingrid";"Im Wiesengrund 6";"48612";"Horstmar";11640
+"SPD";"Baaske, Günter";"Achtrutenweg 10";"14806";"Belzig";11950
+"SPD";"Bayerische Motorenwerke AG";"Petuelring 130";"80788";"München";109472,88
+"SPD";"Beck, Kurt";"Feldpfad 1 A";"76889";"Steinfeld";21824,69
+"SPD";"Becken, Dieter";"Beim Strohhause 17";"20097";"Hamburg";14000
+"SPD";"Beckers, Peter";"Lausitzer Straße 40";"10999";"Berlin";10582
+"SPD";"Beine, Lothar";"An den Hüren 125";"41066";"Mönchengladbach";17792
+"SPD";"Berenberg Bank, Joh. Berenberg, Gossler & Co. KG";"Neuer Jungfernstieg 20";"20148";"Hamburg";20000
+"SPD";"Blauth, Ralf";"Leverkusener Straße 20";"45772";"Marl";10480
+"SPD";"Bollmann, Gerd";"Am Bollwerk 13 c";"44651";"Herne";11070
+"SPD";"Börschel, Martin";"Lokomotivstraße 90";"50733";"Köln";13908
+"SPD";"Breuer, Reiner";"Nordkanalallee 60";"41464";"Neuss";11145,6
+"SPD";"Britz, Charlotte";"Rathausplatz 1";"66111";"Saarbrücken";21836,12
+"SPD";"Bülow, Marco";"Große Heimstraße 72";"44137";"Dortmund";12943
+"SPD";"Burkert, Martin";"Siemensstraße 31";"90459";"Nürnberg";11720
+"SPD";"Conrad, Margit";"Wallaustraße 17";"55118";"Mainz";11138,8
+"SPD";"Crone, Petra";"Hinterste Vornberg 3";"58566";"Kierspe";12550
+"SPD";"Daimler AG";"Mercedesstraße 137";"70546";"Stuttgart";150000
+"SPD";"Danckert, Dr. Peter";"Hertastraße 3";"14169";"Berlin";10560
+"SPD";"Dobusch, Gabi";"Holländische Reihe 18";"22765";"Hamburg";12980
+"SPD";"Deutsche Vermögensberatung AG";"Münchener Straße 1";"60329";"Frankfurt";25000
+"SPD";"DIC Asset AG";"Eschersheimer Landstraße 223";"60320";"Frankfurt";11500
+"SPD";"Dr. August Oetker KG";"Lutterstraße 14";"33617";"Bielefeld";11000
+"SPD";"Drexler, Wolfgang";"Bärenwiesenweg 15";"73732";"Esslingen";13975,4
+"SPD";"Dreyer, Malu";"Im Schammat 27";"54294";"Trier";10430,65
+"SPD";"Duden, Barbara";"Raawisch 29";"22043";"Hamburg";10620
+"SPD";"EADS Deutschland GmbH";"Willy-Messerschmitt-Straße 1";"85521";"Ottobrunn";30000
+"SPD";"Ebling, Michael";"Am Hipperich 76";"55120";"Mainz";11488,25
+"SPD";"Eckstein, Herbert";"Am Alten Bahnhof 1";"90530";"Wendelstein";12200
+"SPD";"ERCK Rickmers GmbH & Cie. KG";"Hohe Bleichen 12";"20354";"Hamburg";49000
+"SPD";"ERGO Versicherungsgruppe AG";"Victoriaplatz 2";"40198";"Düsseldorf";15000
+"SPD";"Evonik Industries AG";"Rellinghauser Straße 1-11";"45128";"Essen";45000
+"SPD";"Fortmeier, Georg";"Wildhagen 30 A";"33619";"Bielefeld";11270
+"SPD";"Frenzel, Dr. Michael";"Hamsterbau 8";"31303";"Burgdorf";12500
+"SPD";"Fritsch, Gunter";"Robert-Koch-Straße 3";"14770";"Brandenburg";12310
+"SPD";"Fuhr, Alexander";"Wieslauterstraße 7";"66994";"Dahn";16680,4
+"SPD";"Fulst-Blei, Stefan";"Richard-Lenel-Straße 4";"68259";"Mannheim";10899
+"SPD";"Gauseimann AG";"Merkur-Allee 1-15";"32339";"Espelkamp";12000
+"SPD";"Gegenbauer Holding SA & Co.KG";"Paul-Robeson-Straße 37";"10439";"Berlin";27000
+"SPD";"Gerdes, Michael";"Hüskensheide 14";"46238";"Bottrop";10350
+"SPD";"Glante, Norbert";"Siegfriedstraße 5";"14542";"Werder";10633,96
+"SPD";"Gleicke, Iris";"Gartenstraße 57";"98553";"Schleusingen";10226,4
+"SPD";"Große-Brömer, Wolfgang";"Blockstraße 37";"46049";"Oberhausen";11172,67
+"SPD";"Hahnen, Ulrich";"Kreuzbergstraße 43";"47800";"Krefeld";16915
+"SPD";"Heil, Hubertus";"Goethestraße 16";"31224";"Peine";11070
+"SPD";"Hendricks, Dr. Barbara";"Wiesenstraße 31";"47533";"Kleve";10605
+"SPD";"Hengst, Jürgen";"Nikolaus-Groß-Straße 19";"47829";"Krefeld";10926
+"SPD";"Hepke, Fritz-Heiner";"Wiesenstraße 8";"28832";"Achim";10754,08
+"SPD";"Hering, Hendrik";"Josef-Büsse-Straße 10";"57627";"Hachenburg";14816,49
+"SPD";"Hock, Gudrun";"Jägerhofstraße 16";"40479";"Düsseldorf";15720,36
+"SPD";"Högl, Dr. Eva";"Tieckstraße 8";"10115";"Berlin";13904
+"SPD";"Holzschuher, Ralf";"Rüsternweg 30";"14776";"Brandenburg";12960
+"SPD";"Hübner, Michael";"Moltkesiedlung 14";"45968";"Gladbeck";11567,81
+"SPD";"Hüttner, Michael";"Kasparstraße 19";"55411";"Bingen";11373,3
+"SPD";"IBC Solar AG";"Am Hochgericht 10";"96231";"Bad Staffelstein";20000
+"SPD";"Johann Friedrich Dirks GmbH & Co. Distribution und Logistik KG";"Petkumer Straße 87";"26725";"Emden";15000
+"SPD";"juwi Holding AG";"Energie-Allee 1";"55286";"Wörrstadt";15000
+"SPD";"Kammerevert, Petra";"Golzheimer Straße 114";"40476";"Düsseldorf";12111,96
+"SPD";"Kelber, Ulrich";"Clemens-August-Straße 64";"53115";"Bonn";10199,55
+"SPD";"Kern, Horst-Achim";"Kaiserdamm 30";"14057";"Berlin";11500
+"SPD";"Klöckner, Dieter";"Am Monte Casino 4a";"56179";"Vallendar";16531,4
+"SPD";"Koch, Christian";"Neue Straße 28";"25421";"Pinneberg";10209,1
+"SPD";"Kofler, Dr. Bärbel";"Lambergstraße 6";"83278";"Traunstein";11400
+"SPD";"Kolbe, Daniela";"Kochstraße 49";"04275";"Leipzig";10560
+"SPD";"Körfges, Hans-Willi";"Trimpelshütter Straße 26";"41238";"Mönchengladbach";18460,84
+"SPD";"Kreissl-Doerfler, Wolfgang";"Heilmannstraße 13";"81479";"München";10025,6
+"SPD";"Krings, Hans";"Im Boisdorfer Feld 14";"50169";"Kerpen";15090
+"SPD";"Krüger-Leißner, Angelika";"Fontanestraße 42";"14621";"Schönwalde-Glien";10660
+"SPD";"Lange, Bernd";"Uetzer Straße 23 g";"31303";"Burgdorf";12223,96
+"SPD";"Lange, Christian";"Schillerplatz 3";"71522";"Backnang";10828,8
+"SPD";"Lischka, Burkhard";"Harsdorfer Straße 104";"39110";"Magdeburg";10105,2
+"SPD";"Lux, Eva";"Dhünnstraße 2 B";"51373";"Leverkusen";10148
+"SPD";"Maget, Franz";"Franz-Fackler-Straße 39";"80995";"München";13820,28
+"SPD";"Marks, Caren";"Geranienweg 16";"30900";"Wedemark";10892
+"SPD";"Mederlet, Frank";"Wilhelmshöhe 6";"51688";"Wipperfürth";17163,4
+"SPD";"Mertes, Joachim";"Beller Weg 4 a";"56290";"Buch";19410,24
+"SPD";"Mettler, Herbert";"Heckenweg 59";"47179";"Duisburg";13317
+"SPD";"Metzler Asset Management GmbH";"Große Gallusstraße 18";"60311";"Frankfurt";11100
+"SPD";"Möhrmann, Dieter";"Bargmannstraße 3";"29640";"Schneverdingen";13688
+"SPD";"Münch, Martina";"Holbeinstraße 15";"03042";"Cottbus";11510
+"SPD";"Münchener Rückversicherungs Gesellschaft AG";"Königinstraße 107";"80802";"München";15000
+"SPD";"Ott, Jochen";"Lokomotivstraße 88";"50733";"Köln";11917
+"SPD";"Pecher, Mario";"Talstraße 10 A";"08066";"Zwickau";10480
+"SPD";"Philip Morris GmbH";"Am Haag 14";"82166";"Gräfelfing";12000
+"SPD";"Platzeck, Matthias";"Turnstraße4";"14482";"Potsdam";11310
+"SPD";"Pörksen, Carsten";"Forstmeister-Gräff-Straße 8";"55543";"Bad Kreuznach";13249,55
+"SPD";"Poß, Joachim";"Lindenstraße 84";"45894";"Gelsenkirchen";11062,8
+"SPD";"Pronold, Florian";"Nördlicher Stadtgraben 9";"94469";"Deggendorf";12863
+"SPD";"Puchtler, Frank";"Kaltenbachstraße 7";"65558";"Oberneisen";17494,67
+"SPD";"Puchtier, Hildegard";"Kaltenbachstraße 7";"65558";"Oberneisen";15000
+"SPD";"Ramsauer, Günther";"Maudacher Straße 418 C";"67065";"Ludwigshafen";14402,4
+"SPD";"Raub, Markus";"Füsilierstraße 4";"40476";"Düsseldorf";14112
+"SPD";"Rawert, Mechthild";"Rheinstraße 10";"12159";"Berlin";13674
+"SPD";"Rheinmetall AG";"Rheinmetall Platz 1";"40476";"Düsseldorf";12000
+"SPD";"Richard Ditting GmbH & Co. KG";"Wyker Straße 2-18";"24768";"Rendsburg";12000
+"SPD";"Rivoir, Martin";"Söflinger Straße 145";"89077";"Ulm";14457,78
+"SPD";"Römer, Norbert";"Ulricherstraße 26";"59494";"Soest";14520
+"SPD";"Sakellariou, Nikolaos";"Geschwister-Scholl-Straße 59/1";"74523";"Schwäbisch Hall";15838,86
+"SPD";"Saxe, Bernd";"Große Gröpelgrube 4";"23552";"Lübeck";13559,68
+"SPD";"Schäfer, Axel";"Auf dem Aspei 60";"44801";"Bochum";15110
+"SPD";"Schäfer, Klaus";"Marktfeldstraße 128";"41063";"Mönchengladbach";12289
+"SPD";"Scheelen, Bernd";"Jakob-Lintzen-Straße 22";"47807";"Krefeld";11779,28
+"SPD";"Schleicher-Rothmund, Barbara";"An den Tongruben 4";"76764";"Rheinzabern";19510,15
+"SPD";"Schmidt, Silvia";"Rammelburger Hauptstraße 1 A";"06343";"Mansfeld";10140,6
+"SPD";"Schmidt, Volker";"Dorfstraße 48";"66292";"Riegelsberg";11027,9
+"SPD";"Schmiedel, Claus";"Anna-Neff-Straße 4";"71640";"Ludwigsburg";11103,26
+"SPD";"Schmitt-Bussinger, Helga";"Kanalstraße 6";"91126";"Schwabach";13560
+"SPD";"Schrimpf, Peter";"Am Weilenacker 76";"59075";"Hamm";15000
+"SPD";"Schröder, Gerhard";"Adolf-Ey-Straße 9";30519;"Hannover";12500
+"SPD";"Schulz, Swen";"Genter Straße 7";"13353";"Berlin";11684
+"SPD";"Schwabe, Frank";"Am Markt 14";"44575";"Castrop-Rauxel";10236
+"SPD";"Schwanitz, Rolf";"OT Röttis 4 D";"08547";"Jößnitz";11170
+"SPD";"Schwarz, Wolfgang";"Karl-Stein-Straße 16";"76835";"Hainfeld";10773,58
+"SPD";"Sippel, Heiko";"Gartenstraße 29";"55232";"Alzey";15766,7
+"SPD";"SIV.AG";"Konrad-Zuse-Straße 1";"18184";"Roggentin";15000
+"SPD";"Sixt GmbH & Co. Autovermietung KG";"Zugspitzstraße 1";"82049";"Pullach";20000
+"SPD";"s.Oliver Bernd Freier GmbH & Co. KG";"s.Oliver Straße 1";"97228";"Rottendorf";19400
+"SPD";"Sonnenholzner, Kathrin";"Dorfstraße 23";"82287";"Jesenwang";12591
+"SPD";"Stachowitz, Diana";"Gaggenaystraße 27";"80992";"München";10320
+"SPD";"Steidl, Gerhard";"Düstere Straße 4";"37073";"Göttingen";13309,28
+"SPD";"Steinmeier, Dr. Frank-Walter";"Bogenstraße 6";"14169";"Berlin";10710
+"SPD";"Stinka, Andre";"Haverlandweg 1";"48249 ";"Dülmen";10120
+"SPD";"Strässer, Christoph";"Tom-Rink-Straße 10";"48153";"Münster";10560
+"SPD";"Ströer Deutsche Städte Medien GmbH";"Ströer Allee 1";"50999";"Köln";18100
+"SPD";"Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.";"Löffelstraße 22-24";"70597";"Stuttgart";60000
+"SPD";"Tiefensee, Wolfgang";"Martin-Luther-Ring 7";"04109";"Leipzig";10080
+"SPD";"Verband der Bayerischen Metall- und Elektro-Industrie e.V.";"Max-Joseph-Straße 5";"80333";"München";35000
+"SPD";"Verband der Chemischen Industrie e.V.";"Mainzer Landstraße 55";"60329";"Frankfurt/Main";60000
+"SPD";"Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.";"Uerdinger Straße 58-62";"40474";"Düsseldorf";20000
+"SPD";"Voith GmbH";"St. Pöltener Straße 43";"89522";"Heidenheim";15000
+"SPD";"Volkmer, Dr. Marlies";"Radeburger Straße 151";"01109";"Dresden";10060
+"SPD";"Wansch, Thomas";"Im Pferch 18";"67681";"Sembach";10336,15
+"SPD";"Werner, Achim";"Bänderweg 6";"85049";"Ingolstadt";14666,11
+"SPD";"Werner, Wolfgang";"Kühler Straße 13";"42555";"Velbert";13100
+"SPD";"Wicklein, Andrea";"Feldstraße 65";"14558";"Nuthetal";12309,7
+"SPD";"Wiefelspütz, Dieter";"Stadttorstraße 5";"44532";"Lünen";10748,8
+"SPD";"Wiese, Heino";"Molanusweg 41";"30559";"Hannover";10532
+"SPD";"Wisser, Claus";"Holzhecke 15";"60528";"Frankfurt";22000
+"SPD";"Wittemeyer, Günter";"Wendenweg 16";"13595";"Berlin";15000
+"SPD";"Woidke, Dietmar";"Drosselweg 17";"03149";"Forst";13930
+"SPD";"Wolff, Waltraud";"Bahnhofstraße 18";"39326";"Wolmirstedt";10110
+"SPD";"Wörner, Ludwig";"Landsberger Straße 147";"80339";"München";10620,99
+"SPD";"Wowereit, Klaus";"Rathausstraße 15";"10178";"Berlin";11828
+"SPD";"Wurth, Ralf";"Marktplatz 13";"51688";"Wipperfürth";12232,6
+"SPD";"Ziegler, Dagmar";"Dorfstraße 7 A";"19309";"Lenzen";19935
+"SPD";"Zorn, Gerhard";"Alte Kölner Straße 31";"51491";"Overath";10441
+"SPD";"Zwingel, Thomas";"Flurstraße 45";"90513";"Zirndorf";11000
