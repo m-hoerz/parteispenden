@@ -9,6 +9,9 @@ The CSVs consist of the following columns: "jahr" (=year), "spender" (donor), "s
 
 The file is separated with commas and encoded in UTF-8.
 
-The source PDF -- with all the tables included as non-searchable images -- can be found at http://dip21.bundestag.de/dip21/btd/17/123/1712340.pdf (2011), http://dip21.bundestag.de/dip21/btd/18/004/1800400.pdf (2012, parliamentary parties), http://dip21.bundestag.de/dip21/btd/18/004/1800401.pdf (2012, non-parliamentary parties).
+The source PDF -- with all the tables included as non-searchable images -- can be found at
+- http://dip21.bundestag.de/dip21/btd/17/123/1712340.pdf (2011)
+- http://dip21.bundestag.de/dip21/btd/18/004/1800400.pdf (2012, parliamentary parties)
+- http://dip21.bundestag.de/dip21/btd/18/004/1800401.pdf (2012, non-parliamentary parties).
 
 The basic URL for the PDFs is http://www.bundestag.de/bundestag/parteienfinanzierung/rechenschaftsberichte/index.html
