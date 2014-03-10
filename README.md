@@ -1,4 +1,4 @@
-parteispenden
+Parteispenden
 =============
 
 This is a machine readable version of the donations the parties in the German Bundestag received in 2011 + 2012.
@@ -15,3 +15,10 @@ The source PDF -- with all the tables included as non-searchable images -- can b
 - http://dip21.bundestag.de/dip21/btd/18/004/1800401.pdf (2012, non-parliamentary parties).
 
 The basic URL for the PDFs is http://www.bundestag.de/bundestag/parteienfinanzierung/rechenschaftsberichte/index.html
+
+
+License
+-------
+This data is made available under the Open Data Commons Attribution License:
+http://opendatacommons.org/licenses/by/1.0/
+A human-readable summary can be found here: http://opendatacommons.org/licenses/by/summary/
