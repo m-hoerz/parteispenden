@@ -1,4 +1,4 @@
-Parteispenden
+Parteispenden 2011 + 2012
 =============
 
 This is a machine readable version of the donations the parties in the German Bundestag received in 2011 + 2012.
